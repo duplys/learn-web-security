@@ -1,2 +1,2 @@
-# learn-web-security
+## Synopsys
 Material for teaching web security.
